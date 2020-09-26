@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "FRANKLIN PINHEIRO SAAD",
+      "birth": 751766400000,
+      "gender": "M",
+      "services": "musculação",
+      "created_at": 1601080734261
+    }
+  ]
+}
