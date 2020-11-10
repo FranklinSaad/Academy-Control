@@ -1,13 +1,22 @@
 {
   "instructors": [
     {
-      "id": 1,
+      "id": "1",
       "avatar_url": "https://source.unsplash.com/collection/3430263/500x500",
       "name": "Franklin Saad",
       "birth": 751766400000,
       "gender": "M",
       "services": "Musculação, Funcional",
       "created_at": 1601597591222
+    },
+    {
+      "id": 3,
+      "avatar_url": "http://google.com",
+      "name": "Nubra Fasari",
+      "birth": 733190400000,
+      "gender": "F",
+      "services": "Alongamento, Abdominal",
+      "created_at": 1604966045215
     }
   ]
 }
